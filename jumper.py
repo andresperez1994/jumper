@@ -31,7 +31,7 @@ class Jumper:
     def hide_letters (self): #Get a random word from a list and hide the letters with underscores 
         self.word = self.secret_word.get_random_word()  #We get a random word 
         
-        print(self.word)
+        #print(self.word)
         
         for i in self.word:
             self.list_letters.append(i)
