@@ -1,5 +1,5 @@
 from secret_word import SecretWord
-from parachuter import Parachuter
+
 
 
 class Jumper: 
