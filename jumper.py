@@ -37,8 +37,7 @@ class Jumper:
             self.list_letters.append(i)
             self.list_underscore.append("_")
 
-        print(self.list_letters)
-        print(self.list_underscore)
+        
 
     def input_user (self):   #Ask the user enter a guess letter and save them into self.list_user_letters 
         print()
